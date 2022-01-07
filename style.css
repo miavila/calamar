@@ -1,0 +1,16 @@
+#myCanvas {
+    background: #F9E79F;
+    border:5px solid #000000;
+    padding: 0;
+    margin: auto;
+    display: block;
+}
+
+body {
+    background: #E59866
+}
+
+h1, p {
+    text-align: center;
+}
+
